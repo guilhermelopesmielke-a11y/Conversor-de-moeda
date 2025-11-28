@@ -3,7 +3,7 @@
 Projeto simples para converter valores entre moedas de forma prática, utilizando HTML, CSS e JavaScript.
 
 ## 🌐 Demonstração Online
-[Clique aqui para acessar o site](https://guilhermelopesmielke-a11y.github.io/Projeto-Conversor-de-moeda/)
+[Clique aqui para acessar o site](https://guilhermelopesmielke-a11y.github.io/Conversor-de-moeda/)
 
 ## 🖼 Prévia do Projeto
 
